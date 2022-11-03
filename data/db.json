@@ -247,15 +247,9 @@
       },
       {
         "child_name": "Dig.pm",
-        "img_src": "./img/dig.png",
+        "img_src": "./img/eyes.png",
         "a_href": "https://dig.pm/",
         "child_desc": "dns.bypass.eu.org.    dns.1433.eu.org."
-      },
-      {
-        "child_name": "空 占位",
-        "img_src": "./img/cmder.png",
-        "a_href": "https://cmder.net/",
-        "child_desc": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
       }
     ]
   },
@@ -273,7 +267,7 @@
       },
       {
         "child_name": "CVE Details",
-        "img_src": "./img/xxxx.png",
+        "img_src": "./img/cve.png",
         "a_href": "https://www.cvedetails.com/",
         "child_desc": "CVE security vulnerability database"
       },
@@ -281,7 +275,7 @@
         "child_name": "exploit-db",
         "img_src": "./img/exploitDB.ico",
         "a_href": "https://www.exploit-db.com/",
-        "child_desc": "漏洞仓库工具exploitdb"
+        "child_desc": "漏洞仓库工具exploitdb  漏洞仓库工具exploitdb是Exploit Database网站（www.exploit-db.com）提供的一个离线漏洞工具。该工具集成了海量的漏洞、Shellcode。这些漏洞根据针对的平台可以分为65大类，近几万个脚本。这些脚本类型包括C、PHP、SH、Python、Ruby等。\n为了便于用户使用，该工具专门提供了一个对应的搜索工具searchsploit。使用该工具，用户根据漏洞关键词按照标题和存储路径进行搜索。找到合适的脚本，还可以直接调用系统变量$Pager定义的文本工具，查看该脚本文件。"
       }
     ]
   }
