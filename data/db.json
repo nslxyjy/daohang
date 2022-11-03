@@ -138,16 +138,10 @@
         "child_desc": "FOFA-网络空间资产搜索引擎"
       },
       {
-        "child_name": "huntere全球鹰",
+        "child_name": "hunter全球鹰",
         "img_src": "./img/hunter.ico",
         "a_href": "https://hunter.qianxin.com/",
         "child_desc": "奇安信 huntere全球鹰 网络空间测绘"
-      },
-      {
-        "child_name": "shodan.io",
-        "img_src": "./img/shodan.png",
-        "a_href": "https://www.shodan.io/",
-        "child_desc": "Shodan搜索引擎"
       },
       {
         "child_name": "shodan.io",
