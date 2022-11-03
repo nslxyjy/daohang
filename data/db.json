@@ -57,7 +57,7 @@
       },
       {
         "child_name": "奇安信 威胁情报中心",
-        "img_src": "./img/qianxin.svg",
+        "img_src": "./img/qianxin.ico",
         "a_href": "https://ti.qianxin.com/",
         "child_desc": "奇安信 威胁情报中心"
       },
@@ -132,16 +132,34 @@
     "category_item": "searchItem",
     "item_children": [
       {
-        "child_name": "SecurityTrails",
-        "img_src": "./img/securityTrails.ico",
-        "a_href": "https://securitytrails.com/",
-        "child_desc": "SecurityTrails - 全球最大DNS数据查询"
+        "child_name": "fofa.info",
+        "img_src": "./img/fofa.ico",
+        "a_href": "https://fofa.info/",
+        "child_desc": "FOFA-网络空间资产搜索引擎"
       },
       {
-        "child_name": "crt.sh | Certificate Search",
-        "img_src": "./img/crt.ico",
-        "a_href": "https://crt.sh/",
-        "child_desc": "crt.sh 根据证书进行子域名搜集"
+        "child_name": "huntere全球鹰",
+        "img_src": "./img/hunter.ico",
+        "a_href": "https://hunter.qianxin.com/",
+        "child_desc": "奇安信 huntere全球鹰 网络空间测绘"
+      },
+      {
+        "child_name": "shodan.io",
+        "img_src": "./img/shodan.png",
+        "a_href": "https://www.shodan.io/",
+        "child_desc": "Shodan搜索引擎"
+      },
+      {
+        "child_name": "shodan.io",
+        "img_src": "./img/shodan.png",
+        "a_href": "https://www.shodan.io/",
+        "child_desc": "Shodan搜索引擎"
+      },
+      {
+        "child_name": "censys",
+        "img_src": "./img/censys.png",
+        "a_href": "https://search.censys.io/",
+        "child_desc": "censys搜索引擎"
       }
     ]
   },
@@ -243,7 +261,33 @@
         "child_name": "空 占位",
         "img_src": "./img/cmder.png",
         "a_href": "https://cmder.net/",
-        "child_desc": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "child_desc": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      }
+    ]
+  },
+  {
+    "Category_id": "vuln",
+    "category_CN": "漏洞情报",
+    "category_icon": "icon-ui-1",
+    "category_item": "vulnItem",
+    "item_children": [
+      {
+        "child_name": "VULHUB漏洞库",
+        "img_src": "./img/vul.png",
+        "a_href": "http://cve.scap.org.cn/index",
+        "child_desc": "VULHUB开源网络安全威胁库"
+      },
+      {
+        "child_name": "CVE Details",
+        "img_src": "./img/xxxx.png",
+        "a_href": "https://www.cvedetails.com/",
+        "child_desc": "CVE security vulnerability database"
+      },
+      {
+        "child_name": "exploit-db",
+        "img_src": "./img/exploitDB.ico",
+        "a_href": "https://www.exploit-db.com/",
+        "child_desc": "漏洞仓库工具exploitdb"
       }
     ]
   }
